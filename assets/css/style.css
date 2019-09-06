@@ -6,7 +6,7 @@ html {
 
 html
 {
-	background: url('assets/images/32042.jpg');
+	background: url('../images/32042.jpg');
 	background-repeat:no-repeat;
 
    background-size:cover;
