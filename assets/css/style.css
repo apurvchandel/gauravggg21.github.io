@@ -3,6 +3,14 @@ html {
 	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 	overflow: hidden;
 }
+
+html
+{
+	background: url('D:/iiitn/space theme/astronaut-floating-space/32042.jpg');
+	background-repeat:no-repeat;
+
+   background-size:cover;
+}
 #stars {
 	width: 1px;
 	height: 1px;
@@ -105,6 +113,7 @@ body{
 	left: 0;
 	right: 0;
 	margin: auto;
+	justify-content: center;
 
 	-webkit-animation: rotation 40s infinite linear;
 }
@@ -235,7 +244,7 @@ li span {
 	#loading-img
 	{
 		width: 40%;
-		margin-top: 0;
+		/*margin-top: 0;*/
 	}
 	#loading{
 		margin-top: 0;
@@ -254,7 +263,7 @@ li span {
 	#loading-img
 	{
 		width: 30%;
-		margin-top: 0;
+		/*margin-top: 0;*/
 	}
 	#loading{
 		margin-top: 0;
